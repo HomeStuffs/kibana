@@ -1,1 +1,2 @@
-FROM kibana
+FROM kibana-base
+
